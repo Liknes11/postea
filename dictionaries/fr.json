@@ -1,0 +1,76 @@
+{
+    "header": {
+         "signup": "S'inscrire",
+         "language": [
+            {"encode": "de", "lang": "Deutsch"}, 
+            {"encode": "en", "lang": "English"}
+         ]
+    },
+
+    "main": {
+       "card": {
+        "my": "Ma",
+        "desc": "connexion Posteo.",
+        "email": {
+            "email": "E-mail",
+            "placeholder": "Adresse e-mail"
+        },
+        "password": {
+            "password": "Mot de passe",
+            "placeholder": "Mot de passe"
+        },
+        "login": "Se connecter maintenant",
+        "underlogin": {
+            "home": "Vers la page d'accueil",
+            "tips": "Conseils pour se connecter",
+            "forgot": "Mot de passe oublié ?"
+        }
+       },
+       "sidebar": {
+        "header1": "Nouveautés de  Posteo sur le blog.",
+        "header2": "Actualités  récentes.",
+        "content1": [
+            "Le Girls’Day 2023 chez Posteo", 
+            "Nouveau chez Posteo: Beaucoup de couleurs et mode sombre", 
+            "Nouvelle fonction de sécurité : l'avis de suppression"
+        ],
+        "content2": [
+            "France : Clearview doit payer une nouvelle amende de plusieurs millions", 
+            "Classement de la liberté de la presse : l'information indépendante est de plus en plus réprimée", 
+            "Rapport de Greenpeace : les labels de durabilité dans l'industrie de la mode ne sont que du greenwashing"
+        ]
+       }
+    },
+
+    "footer": {
+        "button": "Annuler la boîte mail",
+        "large": {
+            "about": [
+                "Qui sommes-nous ?",
+                "Contact",
+                "Jobs",
+                "Mentions légales"
+            ],
+            "help": [
+                "Aide",
+                "Actualités",
+                "Services",
+                "Revue de presse"
+            ],
+            "side": [
+                "Rapports de transparence",
+                "CGV",
+                "Déclaration sur la protection des données",
+                "Équipe Anti-abuse"
+            ]
+        },
+        "small": [
+            "Jobs",
+            "Mentions légales",
+            "CGV",
+            "Déclaration sur la protection des données",
+            "Équipe Anti-abuse"
+        ]
+        
+    }
+}

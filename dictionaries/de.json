@@ -1,0 +1,76 @@
+{
+    "header": {
+         "signup": "Registrieren",
+         "language": [ 
+            {"encode": "fr", "lang": "Français"}, 
+            {"encode": "en", "lang": "English"}
+        ]
+    },
+
+    "main": {
+       "card": {
+        "my": "Mein",
+        "desc": "Posteo-Login.",
+        "email": {
+            "email": "  E-mail",
+            "placeholder": "E-Mail-Adresse"
+        },
+        "password": {
+            "password": "Passwort",
+            "placeholder": "Passwort"
+        },
+        "login": "Jetzt anmelden",
+        "underlogin": {
+            "home": "Zur Startseite",
+            "tips": "Login-Tipps",
+            "forgot": "Passwort vergessen?"
+        }
+       },
+       "sidebar": {
+        "header1": "Neues von Posteo im Blog..",
+        "header2": "Aktuelle  Nachrichten.",
+        "content1": [
+            "Der Girls’Day 2023 bei Posteo", 
+            "Neu bei Posteo: Viele Farben und Dunkelmodus", 
+            "Neue Sicherheitsfunktion: Der Löschhinweis"
+        ],
+        "content2": [
+            "Landgericht Karlsruhe: Verlinkung in Online-Artikel war nicht strafbar", 
+            "USA: Polizeibehörden bauen Überwachung mithilfe privater Kameras aus", 
+            "Amnesty International: Sprunghafter Anstieg der weltweiten Hinrichtungen"
+        ]
+       }
+    },
+
+    "footer": {
+        "button": "Postfach kündigen",
+        "large": {
+            "about": [
+                "Über uns",
+                "Kontakt",
+                "Jobs",
+                "Impressum"
+            ],
+            "help": [
+                "Hilfe",
+                "Blog",
+                "Leistungen",
+                "Presseberichte"
+            ],
+            "side": [
+                "Transparenzbericht",
+                "AGB",
+                "Datenschutzerklärung",
+                "Anti-Abuse-Team"
+            ]
+        },
+        "small": [
+            "Jobs",
+            "Impressum",
+            "AGB",
+            "Datenschutzerklärung",
+            "Anti-Abuse-Team"
+        ]
+        
+    }
+}

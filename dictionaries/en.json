@@ -1,0 +1,76 @@
+{
+    "header": {
+         "signup": "Sign up",
+         "language": [
+            {"encode": "de", "lang": "Deutsch"}, 
+            {"encode": "fr", "lang": "Français"}
+         ]
+    },
+
+    "main": {
+       "card": {
+        "my": "MY",
+        "desc": "Posteo Login.",
+        "email": {
+            "email": "  Email",
+            "placeholder": "Email address"
+        },
+        "password": {
+            "password": "Password",
+            "placeholder": "Password"
+        },
+        "login": "Log in now",
+        "underlogin": {
+            "home": "Homepage",
+            "tips": "Login tips",
+            "forgot": "Forgot Password?"
+        }
+       },
+       "sidebar": {
+        "header1": "News from Posteo in the Blog.",
+        "header2": "Current News.",
+        "content1": [
+            "New at Posteo: Many Colors and Dark Mode", 
+            "New security feature: The deletion notification", 
+            "Girls'Day 2023 at Posteo"
+        ],
+        "content2": [
+            "France: Clearview to pay additional millions in fines", 
+            "Amnesty annual report: 2022 marked by fleeing and protests", 
+            "UN warns of increasing water shortage"
+        ]
+       }
+    },
+
+    "footer": {
+        "button": "Cancel email account",
+        "large": {
+            "about": [
+                "About us",
+                "Contact",
+                "Jobs",
+                "Legal notice"
+            ],
+            "help": [
+                "Help",
+                "Blog",
+                "Features",
+                "Press reviews"
+            ],
+            "side": [
+                "Transparency",
+                "Terms",
+                "Privacy policy",
+                "Anti-abuse team"
+            ]
+        },
+        "small": [
+            "Jobs",
+            "Legal notice",
+            "Terms",
+            "Privacy policy",
+            "Anti-abuse team"
+        ]
+        
+    }
+}
